@@ -43,9 +43,9 @@ También podemos crearlo usando el botón `New pull request`.
 
 ### Condiciones de aprobación
 * Ejercicio 1 - 4  puntos
-* Ejercicio 2 - 2  puntos
-* Ejercicio 3 - 2  puntos
-* Ejercicio 4 - 2  puntos
+* Ejercicio 2 - 2,5  puntos + 0,5 si agrega tests
+* Ejercicio 3 - 2,5  puntos + 0,5 si agrega tests
+
 
 
 ### ENUNCIADOS
@@ -57,11 +57,8 @@ Tener en cuenta que cada snack tiene un valor diferente y el stock de cada uno s
 
 ## Ejercicio 2
 Están por lanzar al mercado una aplicación __matencio__ que enseña cómo preparar mate. La versión que nos facilitaron es una versión beta del producto. Tenemos que mejorarla para publicarla cuanto antes. 
-     
+
 ## Ejercicio 3
-
-
-## Ejercicio 4 
 Una conocida fábrica de autos quiere actualizar su sistema para poder agregarle accesorios a las unidades que vende de forma más dinámica de como lo hace hoy en día. 
 ¿Qué cambios harías?
 
