@@ -51,14 +51,16 @@ También podemos crearlo usando el botón `New pull request`.
 
 
 ## Ejercicio 1 - Desarrollo
-
+Necesitamos desarrollar el sistema para una _máquina de snacks_ que por el momento ofrece 2 tipos de snacks diferentes pero ya nos anticiparon que pronto van a agregar más variedad. 
+Tener en cuenta que cada snack tiene un valor diferente y el stock de cada uno se maneja por separado
 
 ## Ejercicio 2 - 
-
+ 
      
 ## Ejercicio 3 - 
 
 
 ## Ejercicio 4 - 
-
+Una conocida fábrica de autos quiere actualizar su sistema para poder agregarle accesorios a las unidades que vende de forma más dinámica de como lo hace hoy en día. 
+¿Qué cambios harías?
 
