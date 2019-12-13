@@ -47,6 +47,7 @@ También podemos crearlo usando el botón `New pull request`.
 * Ejercicio 3 - 2  puntos
 * Ejercicio 4 - 2  puntos
 
+
 ### ENUNCIADOS
 
 
@@ -55,7 +56,7 @@ Necesitamos desarrollar el sistema para una _máquina de snacks_ que por el mome
 Tener en cuenta que cada snack tiene un valor diferente y el stock de cada uno se maneja por separado
 
 ## Ejercicio 2 - 
- 
+Están por lanzar al mercado una aplicación __matencio__ que enseña cómo preparar mate. La versión que nos facilitaron es una versión beta del producto. Tenemos que mejorarla para publicarla cuanto antes. 
      
 ## Ejercicio 3 - 
 
